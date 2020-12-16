@@ -1,6 +1,6 @@
 # 💻  Hi, I'm Matthew
 ## 👋 About me
-I am a 20 year old web-developer from Poznan, Poland and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
+I am a 20 years old web-developer from Poznan, Poland and I'm passionate about technology, communities, and everything in-between.
 ## 📫 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuszcwojdzinski/)](https://www.linkedin.com/in/mateuszcwojdzinski/) [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)](https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/cwojdzinskim)](https://twitter.com/cwojdzinskim)
 ## 💡 Technologies
