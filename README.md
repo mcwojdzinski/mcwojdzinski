@@ -17,6 +17,6 @@ I am a 22 years old web-developer from Poznan, Poland and I'm passionate about t
 
 ### Currently learning 📚
 
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styledcomponents) ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-lightblue?style=flat-square&logo=tailwindcss)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styledcomponents) ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-lightblue?style=flat-square&logo=tailwindcss) ![](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ## 💾 Projects
 To do
