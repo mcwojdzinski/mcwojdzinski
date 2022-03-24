@@ -1,4 +1,4 @@
-# 💻  Hi, I'm Matthew
+# 👨🏽‍💻 Hi, I'm Matthew
 ## 👋 About me
 I am a 22 years old web-developer from Poznan, Poland and I'm passionate about technology, communities, and everything in-between.
 ## 📫 Socials
