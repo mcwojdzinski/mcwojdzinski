@@ -2,7 +2,7 @@
 ## 👋 About me
 I am a 22 years old web-developer from Poznan, Poland and I'm passionate about technology, communities, and everything in-between.
 ## 📫 Socials
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuszcwojdzinski/)](https://www.linkedin.com/in/mateuszcwojdzinski/) [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)](https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/cwojdzinskim)](https://twitter.com/cwojdzinskim)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuszcwojdzinski/)](https://www.linkedin.com/in/mateuszcwojdzinski/) [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)](https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)
 ## 💡 Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-mediumvioletred?style=flat-square&logo=Sass&logoColor=pink)
 
