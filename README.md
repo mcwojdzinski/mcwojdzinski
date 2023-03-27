@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Hi, I'm Matthew
 ## 👋 About me
-I am a 22 years old web-developer from Poznan, Poland and I'm passionate about technology, communities, and everything in-between. Worked for a 1.5 year for software house using Vue.js and Nuxt.js. Currently learning and developing myself in React.js and other technologies related in it.
+I am a 23 years old web-developer from Poznan, Poland and I'm passionate about technology, communities, and everything in-between. Worked for a 2 years for software house using Vue.js and Nuxt.js. Currently learning and developing myself in React.js and other technologies related in it.
 ## 📫 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuszcwojdzinski/)](https://www.linkedin.com/in/mateuszcwojdzinski/) [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)](https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)
 ## 💡 Technologies
