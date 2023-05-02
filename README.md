@@ -1,6 +1,8 @@
 # 👨🏽‍💻 Hi, I'm Matthew
 ## 👋 About me
-I am a 23 years old web-developer from Poznan, Poland and I'm passionate about technology, communities, and everything in-between. Worked for a 2 years for software house using Vue.js and Nuxt.js. Currently learning and developing myself in React.js and other technologies related in it.
+
+I am a 23 years old web-developer from Poznan, Poland and I'm passionate about technology, communities, and everything in-between. Worked for a 2 years for software house using Vue.js and Nuxt.js, after that I had been working in tourist company in developing new reservation system called ERP and I was responsible for developing new page for making reservation in tourist area. Curently finishing my computer science degree along learning in React.js whole ecosystem based in this area.
+
 ## 📫 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuszcwojdzinski/)](https://www.linkedin.com/in/mateuszcwojdzinski/) [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)](https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)
 ## 💡 Technologies
@@ -19,4 +21,4 @@ I am a 23 years old web-developer from Poznan, Poland and I'm passionate about t
 
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styledcomponents) ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-lightblue?style=flat-square&logo=tailwindcss) ![](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ## 💾 Projects
-To do
+See my project below in pinned section. 
