@@ -19,4 +19,4 @@ I am a 23 years old web-developer from Poznan, Poland and I'm passionate about t
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) ![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=Figma)
 
 ### 💾 Projects
-See my project below in pinned section. 
+See my projects below in pinned section. 
