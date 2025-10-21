@@ -1,7 +1,10 @@
 # 👨🏽‍💻 Hi, I'm Matthew
 ### 👋 About me
 
-I am a 24 years old web-developer from Poznan, Poland and I'm passionate about technology and learning new ways for the web development, with courage to become stack web developer. Worked for a 2 years for software house using Vue.js and Nuxt.js creating new components and maintaining company website, after that I had been working for tourist company in developing new reservation system called ERP and I was responsible for developing new features for making reservations and developing main page to let customers for buying tours in Angular with Typescript. Curently finishing my computer science degree along learning React.js with whole ecosystem based in this area. With doing smaller or larger projects to my portfolio.
+I am a 25 years old web-developer from Poznan, Poland.
+Passionate about technology and learning new ways for the web development, with courage to become full stack developer. 
+
+Worked for a 2 years for software house using Vue.js and Nuxt.js creating new components and maintaining company website, after that I had been working for tourist company in developing new reservation system called ERP and I was responsible for developing new features for making reservations and developing main page to let customers for buying tours in Angular with Typescript. Curently finishing my computer science degree along learning React.js with whole ecosystem based in this area. With doing smaller or larger projects to my portfolio.
 
 ### 📫 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuszcwojdzinski/)](https://www.linkedin.com/in/mateuszcwojdzinski/) [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-orange?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)](https://stackoverflow.com/users/12361358/mateusz-cwojdzinski?tab=profile)
